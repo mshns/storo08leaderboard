@@ -1,27 +1,9 @@
 [
   {
-    "player_identificator": 990737,
-    "username": "SkyForest",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 999449,
-    "username": "Darinag",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 2399498,
-    "username": "dagaz",
-    "rake": 0,
-    "fees": 12.58
-  },
-  {
     "player_identificator": 954150,
     "username": "Sergey235",
     "rake": 0,
-    "fees": 2
+    "fees": 0.33
   },
   {
     "player_identificator": 1075866,
@@ -30,34 +12,28 @@
     "fees": 0
   },
   {
-    "player_identificator": 925706,
-    "username": "Katamaran84",
-    "rake": 11.86,
-    "fees": 0
-  },
-  {
     "player_identificator": 973546,
     "username": "boykurantov",
     "rake": 0,
-    "fees": 14.33
+    "fees": 0
   },
   {
     "player_identificator": 2475547,
     "username": "pash1k",
     "rake": 0,
-    "fees": 3.17
+    "fees": 0
   },
   {
     "player_identificator": 2489579,
     "username": "Dualtime",
     "rake": 0,
-    "fees": 0.17
+    "fees": 0
   },
   {
     "player_identificator": 2489732,
     "username": "SkyTheLimit",
     "rake": 0,
-    "fees": 308.49
+    "fees": 3.21
   },
   {
     "player_identificator": 2500101,
@@ -69,7 +45,7 @@
     "player_identificator": 2501424,
     "username": "Century",
     "rake": 0,
-    "fees": 45.65
+    "fees": 0
   },
   {
     "player_identificator": 2511086,
@@ -87,53 +63,29 @@
     "player_identificator": 2513590,
     "username": "SLONFART",
     "rake": 0,
-    "fees": 20.95
+    "fees": 0
   },
   {
     "player_identificator": 2522281,
     "username": "ZGMforever",
     "rake": 0,
-    "fees": 5.19
+    "fees": 1.75
   },
   {
     "player_identificator": 2531288,
     "username": "BigReeg",
     "rake": 0,
-    "fees": 204.09
-  },
-  {
-    "player_identificator": 2546317,
-    "username": "ozerchanin",
-    "rake": 0,
     "fees": 0
   },
   {
-    "player_identificator": 2555027,
-    "username": "ResiDentNL",
+    "player_identificator": 2541881,
+    "username": "Santaanapa",
     "rake": 0,
-    "fees": 0.64
-  },
-  {
-    "player_identificator": 268718,
-    "username": "vitja_",
-    "rake": 56.46,
-    "fees": 0
+    "fees": 7.59
   },
   {
     "player_identificator": 2562080,
     "username": "Boss1978",
-    "rake": 0,
-    "fees": 5.18
-  },
-  {
-    "player_identificator": 2564865,
-    "username": "Restovrator",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 2573043,
-    "username": "TonyMoroni",
     "rake": 0,
     "fees": 0
   },
@@ -141,25 +93,7 @@
     "player_identificator": 2585404,
     "username": "1advd",
     "rake": 0,
-    "fees": 530.59
-  },
-  {
-    "player_identificator": 2586310,
-    "username": "dimig79",
-    "rake": 0,
-    "fees": 4.08
-  },
-  {
-    "player_identificator": 2586679,
-    "username": "SlavaHEdsup",
-    "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 2589307,
-    "username": "Hunter5252",
-    "rake": 0,
-    "fees": 12.66
   },
   {
     "player_identificator": 2591181,
@@ -174,20 +108,8 @@
     "fees": 0
   },
   {
-    "player_identificator": 2594421,
-    "username": "lider749",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 2597417,
     "username": "cocy4u1a",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 2603208,
-    "username": "Blonde1999",
     "rake": 0,
     "fees": 0
   },
@@ -195,13 +117,13 @@
     "player_identificator": 2608934,
     "username": "Litin",
     "rake": 0,
-    "fees": 54.15
+    "fees": 0
   },
   {
     "player_identificator": 2610859,
     "username": "Otstoy99",
     "rake": 0,
-    "fees": 23.33
+    "fees": 15.38
   },
   {
     "player_identificator": 1277696,
@@ -213,37 +135,31 @@
     "player_identificator": 1419792,
     "username": "maksimus 84",
     "rake": 0,
-    "fees": 0.13
+    "fees": 0
   },
   {
     "player_identificator": 2389565,
     "username": "element332a",
     "rake": 0,
-    "fees": 20.83
-  },
-  {
-    "player_identificator": 1644572,
-    "username": "AristocratRF",
-    "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 1653589,
-    "username": "sasha32181",
-    "rake": 0,
-    "fees": 11.16
   },
   {
     "player_identificator": 1664838,
     "username": "max kaz",
-    "rake": 98.72,
-    "fees": 30.22
+    "rake": 8.21,
+    "fees": 1.13
   },
   {
     "player_identificator": 1757130,
     "username": "stanislav4",
     "rake": 0,
-    "fees": 0.02
+    "fees": 0.05
+  },
+  {
+    "player_identificator": 794124,
+    "username": "DonAntonio",
+    "rake": 0,
+    "fees": 0
   },
   {
     "player_identificator": 315684,
@@ -258,40 +174,10 @@
     "fees": 0
   },
   {
-    "player_identificator": 1028323,
-    "username": "ALEC81",
-    "rake": 0,
-    "fees": 4.75
-  },
-  {
     "player_identificator": 4057437,
     "username": "Grekz0r",
     "rake": 0,
-    "fees": 38.82
-  },
-  {
-    "player_identificator": 4068075,
-    "username": "raise1one",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4071128,
-    "username": "IloveDeneuve",
-    "rake": 0,
-    "fees": 5.36
-  },
-  {
-    "player_identificator": 4093546,
-    "username": "Simpl",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4141921,
-    "username": "yohyoxyd",
-    "rake": 0,
-    "fees": 0
+    "fees": 10.31
   },
   {
     "player_identificator": 4181326,
@@ -300,38 +186,8 @@
     "fees": 0
   },
   {
-    "player_identificator": 4206166,
-    "username": "babayyy1",
-    "rake": 101.52,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4221360,
-    "username": "rusvanya",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4224607,
-    "username": "CBEPXTAHK",
-    "rake": 0,
-    "fees": 0.21
-  },
-  {
-    "player_identificator": 4224740,
-    "username": "LostInKeds",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4261822,
     "username": "Lynx0d",
-    "rake": 0,
-    "fees": 266.57
-  },
-  {
-    "player_identificator": 4261825,
-    "username": "LYAH2000",
     "rake": 0,
     "fees": 0
   },
@@ -339,13 +195,7 @@
     "player_identificator": 4261891,
     "username": "Hobnail",
     "rake": 0,
-    "fees": 9.5
-  },
-  {
-    "player_identificator": 4261919,
-    "username": "gerien",
-    "rake": 0.2,
-    "fees": 0.01
+    "fees": 0
   },
   {
     "player_identificator": 4261926,
@@ -363,13 +213,13 @@
     "player_identificator": 4262241,
     "username": "xjapan26",
     "rake": 0,
-    "fees": 13.16
+    "fees": 9.81
   },
   {
     "player_identificator": 4262620,
     "username": "tormoz000",
     "rake": 0,
-    "fees": 3.58
+    "fees": 0
   },
   {
     "player_identificator": 4262726,
@@ -390,16 +240,10 @@
     "fees": 0
   },
   {
-    "player_identificator": 4267772,
-    "username": "deker555",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4268254,
     "username": "hiiiiiiiiiit",
     "rake": 0,
-    "fees": 0.06
+    "fees": 0
   },
   {
     "player_identificator": 4268828,
@@ -408,26 +252,8 @@
     "fees": 0
   },
   {
-    "player_identificator": 4268863,
-    "username": "Admiral055",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4268991,
     "username": "proton140",
-    "rake": 0,
-    "fees": 10.33
-  },
-  {
-    "player_identificator": 4268999,
-    "username": "JKSol",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4269040,
-    "username": "NasFill",
     "rake": 0,
     "fees": 0
   },
@@ -435,31 +261,19 @@
     "player_identificator": 4269238,
     "username": "shershenl",
     "rake": 0,
-    "fees": 1.17
+    "fees": 0
   },
   {
     "player_identificator": 4269246,
     "username": "Megold",
-    "rake": 0.96,
-    "fees": 28.23
+    "rake": 0,
+    "fees": 15.05
   },
   {
     "player_identificator": 4269852,
     "username": "mi$tik",
     "rake": 0,
-    "fees": 33.32
-  },
-  {
-    "player_identificator": 4269868,
-    "username": "stor07",
-    "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 4270083,
-    "username": "Solvent",
-    "rake": 0,
-    "fees": 3.08
   },
   {
     "player_identificator": 4270158,
@@ -471,31 +285,31 @@
     "player_identificator": 4270282,
     "username": "Pa4kulia",
     "rake": 0,
-    "fees": 1.09
+    "fees": 1
   },
   {
     "player_identificator": 4270436,
     "username": "VikErin",
     "rake": 0,
-    "fees": 3.63
+    "fees": 0
   },
   {
     "player_identificator": 4270594,
     "username": "Ru$luck05",
     "rake": 0,
-    "fees": 63.14
+    "fees": 3.33
   },
   {
     "player_identificator": 4270860,
     "username": "BahTOBUK",
     "rake": 0,
-    "fees": 145.37
+    "fees": 91.87
   },
   {
     "player_identificator": 4270871,
     "username": "Mastercool50",
     "rake": 0,
-    "fees": 0.25
+    "fees": 0
   },
   {
     "player_identificator": 4270924,
@@ -507,29 +321,29 @@
     "player_identificator": 4271126,
     "username": "serafim25",
     "rake": 0,
-    "fees": 5.71
+    "fees": 0.33
   },
   {
     "player_identificator": 4271199,
     "username": "drawing.dead",
     "rake": 0,
-    "fees": 25.46
+    "fees": 4.99
   },
   {
     "player_identificator": 4271272,
     "username": "andremax",
     "rake": 0,
-    "fees": 43.73
+    "fees": 0
   },
   {
     "player_identificator": 4271363,
     "username": "CHASE263",
     "rake": 0,
-    "fees": 3.33
+    "fees": 0
   },
   {
-    "player_identificator": 4271997,
-    "username": "sovadg",
+    "player_identificator": 4271418,
+    "username": "mrfreez1",
     "rake": 0,
     "fees": 0
   },
@@ -537,13 +351,13 @@
     "player_identificator": 4272064,
     "username": "potaoka121",
     "rake": 0,
-    "fees": 456.51
+    "fees": 0
   },
   {
     "player_identificator": 4272096,
     "username": "sanchess08",
     "rake": 0,
-    "fees": 71.22
+    "fees": 0
   },
   {
     "player_identificator": 4272218,
@@ -555,41 +369,17 @@
     "player_identificator": 4272230,
     "username": "Ellvis82",
     "rake": 0,
-    "fees": 1.08
-  },
-  {
-    "player_identificator": 4272253,
-    "username": "massimo2k20",
-    "rake": 0,
-    "fees": 35.65
+    "fees": 0.43
   },
   {
     "player_identificator": 4272308,
     "username": "Russ1KZ",
     "rake": 0,
-    "fees": 1.83
+    "fees": 4.49
   },
   {
     "player_identificator": 4272334,
     "username": "burn1nglove",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4272426,
-    "username": "MisterKrol24",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4272529,
-    "username": "BboyToxa",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4272671,
-    "username": "lYahooeyoul",
     "rake": 0,
     "fees": 0
   },
@@ -603,37 +393,19 @@
     "player_identificator": 4272816,
     "username": "PaccoJl24Ha7",
     "rake": 0,
-    "fees": 196.43
+    "fees": 0
   },
   {
     "player_identificator": 4272824,
     "username": "kroomper",
     "rake": 0,
-    "fees": 8.83
+    "fees": 0
   },
   {
     "player_identificator": 4272832,
     "username": "AyvuirRed",
     "rake": 0,
-    "fees": 124.87
-  },
-  {
-    "player_identificator": 4272839,
-    "username": "5ZET",
-    "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 4272879,
-    "username": "890tor890",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4272881,
-    "username": "AppaOppa",
-    "rake": 0,
-    "fees": 3.33
   },
   {
     "player_identificator": 4272901,
@@ -645,13 +417,7 @@
     "player_identificator": 4272905,
     "username": "((((kobochka",
     "rake": 0,
-    "fees": 403.36
-  },
-  {
-    "player_identificator": 4272919,
-    "username": "AurelioLima",
-    "rake": 0,
-    "fees": 0
+    "fees": 193.71
   },
   {
     "player_identificator": 4272953,
@@ -663,49 +429,13 @@
     "player_identificator": 4273071,
     "username": "SiBiRGW",
     "rake": 0,
-    "fees": 14.99
-  },
-  {
-    "player_identificator": 4273089,
-    "username": "LUCKYPUNCHER",
-    "rake": 0,
-    "fees": 7.83
-  },
-  {
-    "player_identificator": 4273105,
-    "username": "kudesan555",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4273154,
-    "username": "IRomanov5",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4273243,
-    "username": "Buslenok",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4273270,
-    "username": "nord86650",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4273334,
-    "username": "guancha2013",
-    "rake": 0,
     "fees": 0
   },
   {
     "player_identificator": 4273370,
     "username": "Anan",
     "rake": 0,
-    "fees": 0.04
+    "fees": 0.26
   },
   {
     "player_identificator": 4273384,
@@ -723,29 +453,23 @@
     "player_identificator": 4273607,
     "username": "Sawyer1",
     "rake": 0,
-    "fees": 0.07
-  },
-  {
-    "player_identificator": 4273621,
-    "username": "asssadafsa",
-    "rake": 0,
-    "fees": 4.17
+    "fees": 0
   },
   {
     "player_identificator": 4273656,
     "username": "DrDark146",
     "rake": 0,
-    "fees": 13.41
-  },
-  {
-    "player_identificator": 4273688,
-    "username": "Droopppy",
-    "rake": 0,
-    "fees": 2
+    "fees": 17.38
   },
   {
     "player_identificator": 4274068,
     "username": "NiToH",
+    "rake": 0,
+    "fees": 0
+  },
+  {
+    "player_identificator": 4274177,
+    "username": "Gangirovanie",
     "rake": 0,
     "fees": 0
   },
@@ -765,61 +489,37 @@
     "player_identificator": 4274494,
     "username": "Easysqueeze",
     "rake": 0,
-    "fees": 223.5
+    "fees": 5.4
   },
   {
     "player_identificator": 4274610,
     "username": "ASTON166",
     "rake": 0,
-    "fees": 61.89
-  },
-  {
-    "player_identificator": 4275141,
-    "username": "HIRURG94",
-    "rake": 0,
-    "fees": 0
+    "fees": 13.63
   },
   {
     "player_identificator": 4275338,
     "username": "Lion86",
     "rake": 0,
-    "fees": 19.99
+    "fees": 30.84
   },
   {
     "player_identificator": 4275357,
     "username": "SkinnyLAnala",
     "rake": 0,
-    "fees": 8.66
+    "fees": 0
   },
   {
     "player_identificator": 4275815,
     "username": "lollipop",
     "rake": 0,
-    "fees": 565.28
-  },
-  {
-    "player_identificator": 4276000,
-    "username": "Biodesigner",
-    "rake": 0,
-    "fees": 7.75
-  },
-  {
-    "player_identificator": 4276056,
-    "username": "Kiropp74",
-    "rake": 0,
-    "fees": 0
+    "fees": 473.1
   },
   {
     "player_identificator": 4276587,
     "username": "xKyKyCuKx",
     "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 4276610,
-    "username": "Dyroko1",
-    "rake": 0,
-    "fees": 0.33
   },
   {
     "player_identificator": 4276794,
@@ -830,14 +530,14 @@
   {
     "player_identificator": 4276980,
     "username": "Rikqo",
-    "rake": 3.56,
+    "rake": 0,
     "fees": 0
   },
   {
     "player_identificator": 4277275,
     "username": "Survivor.es",
     "rake": 0,
-    "fees": 21.16
+    "fees": 0
   },
   {
     "player_identificator": 4277324,
@@ -846,32 +546,8 @@
     "fees": 0
   },
   {
-    "player_identificator": 4277339,
-    "username": "KrolikRoger",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4277548,
-    "username": "Banambo",
-    "rake": 2.8,
-    "fees": 0
-  },
-  {
     "player_identificator": 4278145,
     "username": "1Eng7ls",
-    "rake": 0,
-    "fees": 544.81
-  },
-  {
-    "player_identificator": 4278262,
-    "username": "theodicy",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4278428,
-    "username": "Winnerr",
     "rake": 0,
     "fees": 0
   },
@@ -879,13 +555,7 @@
     "player_identificator": 4278612,
     "username": "BEZDENEG",
     "rake": 0,
-    "fees": 0.25
-  },
-  {
-    "player_identificator": 4278648,
-    "username": "Gazzirovka",
-    "rake": 0,
-    "fees": 0
+    "fees": 0.08
   },
   {
     "player_identificator": 4278812,
@@ -894,20 +564,8 @@
     "fees": 0
   },
   {
-    "player_identificator": 4279629,
-    "username": "OneTaper",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4279658,
     "username": "tonyablade",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4279742,
-    "username": "NoZeXX",
     "rake": 0,
     "fees": 0
   },
@@ -921,35 +579,17 @@
     "player_identificator": 4279932,
     "username": "HoBu4oKpoker",
     "rake": 0,
-    "fees": 1.83
-  },
-  {
-    "player_identificator": 4280177,
-    "username": "ZykNet",
-    "rake": 0,
-    "fees": 35.74
+    "fees": 0
   },
   {
     "player_identificator": 4280429,
     "username": "ximar996",
     "rake": 0,
-    "fees": 1.39
-  },
-  {
-    "player_identificator": 4280575,
-    "username": "MIGNBA",
-    "rake": 0,
-    "fees": 1.33
+    "fees": 5.48
   },
   {
     "player_identificator": 4280669,
     "username": "Sosiska87",
-    "rake": 0,
-    "fees": 125.56
-  },
-  {
-    "player_identificator": 4280757,
-    "username": "kolobcheena",
     "rake": 0,
     "fees": 0
   },
@@ -957,53 +597,11 @@
     "player_identificator": 4280963,
     "username": "Parent88",
     "rake": 0,
-    "fees": 2
-  },
-  {
-    "player_identificator": 4281438,
-    "username": "DaniJI",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4281488,
-    "username": "LimpNaOlymp",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4281561,
-    "username": "skinnyrus86",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4281646,
-    "username": "TheCure.",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4281649,
-    "username": "To4ka29",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4281919,
-    "username": "Tryptamine",
-    "rake": 0,
-    "fees": 0
+    "fees": 0.67
   },
   {
     "player_identificator": 4283069,
     "username": "gfkfnf6",
-    "rake": 0,
-    "fees": 14.16
-  },
-  {
-    "player_identificator": 4283546,
-    "username": "smokysam",
     "rake": 0,
     "fees": 0
   },
@@ -1012,12 +610,6 @@
     "username": "Freya76",
     "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 4284810,
-    "username": "chobohunter8",
-    "rake": 0,
-    "fees": 4.25
   },
   {
     "player_identificator": 4285025,
@@ -1032,34 +624,10 @@
     "fees": 0
   },
   {
-    "player_identificator": 4285552,
-    "username": "psyFANT",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4286390,
-    "username": "JimHawkins",
-    "rake": 0,
-    "fees": 10.66
-  },
-  {
     "player_identificator": 4286752,
     "username": "3x05",
     "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 4286841,
-    "username": "Singapore",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4287040,
-    "username": "savson",
-    "rake": 0,
-    "fees": 11.33
   },
   {
     "player_identificator": 4287119,
@@ -1068,20 +636,8 @@
     "fees": 0
   },
   {
-    "player_identificator": 4287346,
-    "username": "staryy21",
-    "rake": 0,
-    "fees": 0.38
-  },
-  {
     "player_identificator": 4287833,
     "username": "Jacpot555",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4290307,
-    "username": "KeyJLee",
     "rake": 0,
     "fees": 0
   },
@@ -1089,19 +645,13 @@
     "player_identificator": 4292033,
     "username": "Artikk15",
     "rake": 0,
-    "fees": 0
+    "fees": 0.58
   },
   {
     "player_identificator": 4292854,
     "username": "NozhkiVLS",
     "rake": 0,
-    "fees": 15.58
-  },
-  {
-    "player_identificator": 4293783,
-    "username": "Tokary888",
-    "rake": 0,
-    "fees": 0
+    "fees": 2.41
   },
   {
     "player_identificator": 4294432,
@@ -1119,19 +669,25 @@
     "player_identificator": 4297578,
     "username": "denf0rdz",
     "rake": 0,
-    "fees": 455.67
+    "fees": 171.09
   },
   {
     "player_identificator": 4298029,
     "username": "fb2",
     "rake": 0,
-    "fees": 26.5
+    "fees": 46.64
   },
   {
     "player_identificator": 4298082,
     "username": "dimaxovich1",
     "rake": 0,
     "fees": 0
+  },
+  {
+    "player_identificator": 4299636,
+    "username": "Glinomes12",
+    "rake": 0,
+    "fees": 16.03
   },
   {
     "player_identificator": 4299913,
@@ -1143,7 +699,7 @@
     "player_identificator": 4300925,
     "username": "RipperFish",
     "rake": 0,
-    "fees": 0
+    "fees": 0.33
   },
   {
     "player_identificator": 4301380,
@@ -1155,23 +711,11 @@
     "player_identificator": 4301585,
     "username": "TGLTN",
     "rake": 0,
-    "fees": 4.08
-  },
-  {
-    "player_identificator": 4301898,
-    "username": "GoolToo",
-    "rake": 0,
-    "fees": 0
+    "fees": 0.33
   },
   {
     "player_identificator": 4302200,
     "username": "DZHONM",
-    "rake": 0,
-    "fees": 9.16
-  },
-  {
-    "player_identificator": 4302804,
-    "username": "nwo139911",
     "rake": 0,
     "fees": 0
   },
@@ -1179,25 +723,13 @@
     "player_identificator": 4302886,
     "username": "Brigada90",
     "rake": 0,
-    "fees": 17.4
-  },
-  {
-    "player_identificator": 4303675,
-    "username": "NoTiltPussy",
-    "rake": 0,
-    "fees": 0
+    "fees": 5.34
   },
   {
     "player_identificator": 4304573,
     "username": "qwer3791",
-    "rake": 0.23,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4304828,
-    "username": "WaheGuruWahe",
-    "rake": 0,
-    "fees": 0
+    "rake": 0.09,
+    "fees": 0.04
   },
   {
     "player_identificator": 4305445,
@@ -1208,12 +740,6 @@
   {
     "player_identificator": 4305540,
     "username": "bender96",
-    "rake": 3.68,
-    "fees": 9.58
-  },
-  {
-    "player_identificator": 4306210,
-    "username": "AliceInWon",
     "rake": 0,
     "fees": 0
   },
@@ -1222,18 +748,6 @@
     "username": "Gordey63",
     "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 4306837,
-    "username": "usirdrom333",
-    "rake": 0,
-    "fees": 0.08
-  },
-  {
-    "player_identificator": 4306949,
-    "username": "V1rtuozo",
-    "rake": 0,
-    "fees": 0.26
   },
   {
     "player_identificator": 4306962,
@@ -1251,17 +765,11 @@
     "player_identificator": 4307096,
     "username": "w1shmeLuck",
     "rake": 0,
-    "fees": 2.83
+    "fees": 0
   },
   {
     "player_identificator": 4307109,
     "username": "hiwwinmuh",
-    "rake": 0,
-    "fees": 17.33
-  },
-  {
-    "player_identificator": 4307247,
-    "username": "Streetds",
     "rake": 0,
     "fees": 0
   },
@@ -1269,25 +777,13 @@
     "player_identificator": 4307253,
     "username": "GGorgio",
     "rake": 0,
-    "fees": 3.5
-  },
-  {
-    "player_identificator": 4307309,
-    "username": "2B2T",
-    "rake": 0,
     "fees": 0
   },
   {
     "player_identificator": 4307316,
     "username": "Armat20",
     "rake": 0,
-    "fees": 88.47
-  },
-  {
-    "player_identificator": 4307399,
-    "username": "kila51",
-    "rake": 0,
-    "fees": 0
+    "fees": 41.24
   },
   {
     "player_identificator": 4307419,
@@ -1299,7 +795,7 @@
     "player_identificator": 4307788,
     "username": "NotKnowGTO",
     "rake": 0,
-    "fees": 592.3
+    "fees": 640.44
   },
   {
     "player_identificator": 4307947,
@@ -1317,13 +813,7 @@
     "player_identificator": 4308048,
     "username": "sobakovod",
     "rake": 0,
-    "fees": 113.54
-  },
-  {
-    "player_identificator": 4308250,
-    "username": "Evgenii13",
-    "rake": 0,
-    "fees": 0.89
+    "fees": 0
   },
   {
     "player_identificator": 4308288,
@@ -1332,70 +822,40 @@
     "fees": 0
   },
   {
-    "player_identificator": 4308454,
-    "username": "123maxx123",
-    "rake": 0,
-    "fees": 0.08
-  },
-  {
     "player_identificator": 4308489,
     "username": "Arcturus1982",
     "rake": 0,
-    "fees": 31.24
-  },
-  {
-    "player_identificator": 4308554,
-    "username": "B0aR",
-    "rake": 0,
-    "fees": 10.97
-  },
-  {
-    "player_identificator": 4308604,
-    "username": "Belmont",
-    "rake": 0,
-    "fees": 10.41
+    "fees": 0
   },
   {
     "player_identificator": 4308613,
     "username": "FASTPOTATO",
     "rake": 0,
-    "fees": 28.74
+    "fees": 17.04
   },
   {
     "player_identificator": 4308617,
     "username": "Paully",
     "rake": 0,
-    "fees": 34.74
+    "fees": 0
   },
   {
     "player_identificator": 4308687,
     "username": "isityou",
     "rake": 0,
-    "fees": 44.57
+    "fees": 34.5
   },
   {
     "player_identificator": 4308697,
     "username": "GoodEvening",
-    "rake": 214.34,
-    "fees": 77.96
-  },
-  {
-    "player_identificator": 4308806,
-    "username": "dontseeyou",
-    "rake": 0,
-    "fees": 7.91
-  },
-  {
-    "player_identificator": 4308816,
-    "username": "Gamer577",
-    "rake": 0,
-    "fees": 0.07
+    "rake": 15.02,
+    "fees": 9.5
   },
   {
     "player_identificator": 4308864,
     "username": "Xlabuda",
     "rake": 0,
-    "fees": 47.07
+    "fees": 6.98
   },
   {
     "player_identificator": 4308878,
@@ -1407,13 +867,13 @@
     "player_identificator": 4308925,
     "username": "Ostap3107",
     "rake": 0,
-    "fees": 126.11
+    "fees": 25.32
   },
   {
     "player_identificator": 4308965,
     "username": "Pappahappa",
     "rake": 0,
-    "fees": 0.5
+    "fees": 7.48
   },
   {
     "player_identificator": 4309187,
@@ -1422,32 +882,14 @@
     "fees": 0
   },
   {
-    "player_identificator": 4309697,
-    "username": "akbeka",
-    "rake": 0,
-    "fees": 2.4
-  },
-  {
     "player_identificator": 4309986,
     "username": "MakeMeEnjoy",
     "rake": 0,
-    "fees": 4.58
-  },
-  {
-    "player_identificator": 4310098,
-    "username": "Action01",
-    "rake": 0,
-    "fees": 0
+    "fees": 34.09
   },
   {
     "player_identificator": 4310110,
     "username": "Mocheta",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4311332,
-    "username": "yatotowa",
     "rake": 0,
     "fees": 0
   },
@@ -1461,23 +903,11 @@
     "player_identificator": 4311518,
     "username": "Smoky2208",
     "rake": 0,
-    "fees": 0.27
+    "fees": 0
   },
   {
     "player_identificator": 4311974,
     "username": "NATOG1448",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4312235,
-    "username": "optiKA1337",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4313563,
-    "username": "IIcuXe9Igz",
     "rake": 0,
     "fees": 0
   },
@@ -1491,55 +921,25 @@
     "player_identificator": 4314859,
     "username": "Hipok777",
     "rake": 0,
-    "fees": 36.24
-  },
-  {
-    "player_identificator": 4314974,
-    "username": "LiquidLimit",
-    "rake": 0,
-    "fees": 0
+    "fees": 33.67
   },
   {
     "player_identificator": 4315244,
     "username": "JeallaMi",
     "rake": 0,
-    "fees": 12
+    "fees": 0
   },
   {
     "player_identificator": 4315332,
     "username": "DmitryAbc",
     "rake": 0,
-    "fees": 5
-  },
-  {
-    "player_identificator": 4315589,
-    "username": "nalivae4ka",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4315934,
-    "username": "POPOVvorkuta",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4315997,
-    "username": "slavuncha",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4316509,
-    "username": "pigaka",
-    "rake": 0,
-    "fees": 0
+    "fees": 1.66
   },
   {
     "player_identificator": 4316923,
     "username": "PiterskyiS",
     "rake": 0,
-    "fees": 0.4
+    "fees": 0.01
   },
   {
     "player_identificator": 4319447,
@@ -1554,14 +954,8 @@
     "fees": 0
   },
   {
-    "player_identificator": 4320811,
-    "username": "ownh4rd",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4320878,
-    "username": "NenMaster",
+    "player_identificator": 4320545,
+    "username": "Koleamd",
     "rake": 0,
     "fees": 0
   },
@@ -1581,25 +975,19 @@
     "player_identificator": 4321676,
     "username": "dashok0304",
     "rake": 0,
-    "fees": 31.32
+    "fees": 0
   },
   {
     "player_identificator": 4322355,
     "username": "Vagonet",
     "rake": 0,
-    "fees": 6.66
+    "fees": 0
   },
   {
     "player_identificator": 4322707,
     "username": "Alaled",
     "rake": 0,
-    "fees": 9
-  },
-  {
-    "player_identificator": 4322744,
-    "username": "cerkasova23",
-    "rake": 0,
-    "fees": 0
+    "fees": 1.58
   },
   {
     "player_identificator": 4323448,
@@ -1623,24 +1011,6 @@
     "player_identificator": 4326452,
     "username": "RemoteApp",
     "rake": 0,
-    "fees": 76.14
-  },
-  {
-    "player_identificator": 4326814,
-    "username": "korrekt",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4327106,
-    "username": "Patarson",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4327278,
-    "username": "Karsh92",
-    "rake": 0,
     "fees": 0
   },
   {
@@ -1652,30 +1022,18 @@
   {
     "player_identificator": 4328586,
     "username": "Alvin8n",
-    "rake": 4.83,
-    "fees": 31.66
+    "rake": 0,
+    "fees": 0
   },
   {
     "player_identificator": 4329509,
     "username": "ZapahSibiri",
     "rake": 0,
-    "fees": 38.74
+    "fees": 16.38
   },
   {
     "player_identificator": 4329793,
     "username": "Chilly.Willy",
-    "rake": 0,
-    "fees": 70.81
-  },
-  {
-    "player_identificator": 4330512,
-    "username": "TotaMota",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4330632,
-    "username": "TMGertsog",
     "rake": 0,
     "fees": 0
   },
@@ -1683,23 +1041,11 @@
     "player_identificator": 4331223,
     "username": "KRECTOB",
     "rake": 0,
-    "fees": 579.01
-  },
-  {
-    "player_identificator": 4331254,
-    "username": "Gambit01",
-    "rake": 0,
-    "fees": 0
+    "fees": 53.87
   },
   {
     "player_identificator": 4334065,
     "username": "Alexenomania",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4334245,
-    "username": "AlinaLove",
     "rake": 0,
     "fees": 0
   },
@@ -1710,16 +1056,10 @@
     "fees": 0
   },
   {
-    "player_identificator": 4334678,
-    "username": "vlad1m1r",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4335632,
     "username": "IrriSy",
     "rake": 0,
-    "fees": 120.54
+    "fees": 0
   },
   {
     "player_identificator": 4335993,
@@ -1737,18 +1077,18 @@
     "player_identificator": 4336403,
     "username": "viliasss",
     "rake": 0,
-    "fees": 26.48
+    "fees": 26.5
   },
   {
-    "player_identificator": 4337514,
-    "username": "Moodybluzz",
+    "player_identificator": 4338272,
+    "username": "Maksim929",
     "rake": 0,
     "fees": 0
   },
   {
     "player_identificator": 4339014,
     "username": "MDMKUa",
-    "rake": 0,
+    "rake": 13.82,
     "fees": 0
   },
   {
@@ -1764,64 +1104,22 @@
     "fees": 0
   },
   {
-    "player_identificator": 4340143,
-    "username": "iiiapuk900",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4340215,
-    "username": "Ottosigu133",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4341833,
     "username": "benevolent21",
     "rake": 0,
-    "fees": 85.55
+    "fees": 0
   },
   {
     "player_identificator": 4344593,
     "username": "shusauro",
     "rake": 0,
-    "fees": 11.58
-  },
-  {
-    "player_identificator": 4345224,
-    "username": "3aPivkoM",
-    "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 4345431,
-    "username": "Grimm007",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4345569,
-    "username": "NordOFF",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4347075,
-    "username": "dmitriy1973",
-    "rake": 0,
-    "fees": 9.16
-  },
-  {
-    "player_identificator": 4347708,
-    "username": "begotten66",
-    "rake": 0,
-    "fees": 0.83
   },
   {
     "player_identificator": 4347824,
     "username": "AlexSteg",
     "rake": 0,
-    "fees": 10.92
+    "fees": 0
   },
   {
     "player_identificator": 4348449,
@@ -1839,7 +1137,7 @@
     "player_identificator": 4352102,
     "username": "PVN163",
     "rake": 0,
-    "fees": 0.01
+    "fees": 0
   },
   {
     "player_identificator": 4352652,
@@ -1851,11 +1149,11 @@
     "player_identificator": 4352832,
     "username": "SPodvanSAY",
     "rake": 0,
-    "fees": 106.13
+    "fees": 21.28
   },
   {
-    "player_identificator": 4354239,
-    "username": "chavana",
+    "player_identificator": 4353896,
+    "username": "Jejek1",
     "rake": 0,
     "fees": 0
   },
@@ -1866,20 +1164,8 @@
     "fees": 0
   },
   {
-    "player_identificator": 4356432,
-    "username": "GGpokerScam",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4357048,
     "username": "whiteVLG7887",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4357249,
-    "username": "Dante1410",
     "rake": 0,
     "fees": 0
   },
@@ -1887,49 +1173,13 @@
     "player_identificator": 4359355,
     "username": "Rogov7773",
     "rake": 0,
-    "fees": 0.07
-  },
-  {
-    "player_identificator": 4360045,
-    "username": "ZhirniyRed",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4360121,
-    "username": "whyubluff?",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4360597,
-    "username": "gromoed",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4360637,
-    "username": "Jll06um4uk01",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4361138,
-    "username": "Zsky7",
-    "rake": 0,
     "fees": 0
   },
   {
     "player_identificator": 4361423,
     "username": "KelvinPB0",
     "rake": 0,
-    "fees": 46.57
-  },
-  {
-    "player_identificator": 4362196,
-    "username": "Queen0107",
-    "rake": 0,
-    "fees": 0.64
+    "fees": 16.63
   },
   {
     "player_identificator": 4362525,
@@ -1944,20 +1194,8 @@
     "fees": 0
   },
   {
-    "player_identificator": 4365028,
-    "username": "HECMOTRISUDA",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4365389,
     "username": "Dontyouworry",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4365850,
-    "username": "Tiarusya",
     "rake": 0,
     "fees": 0
   },
@@ -1968,22 +1206,10 @@
     "fees": 0
   },
   {
-    "player_identificator": 4366149,
-    "username": "Brokoly",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4366167,
-    "username": "Marmok7",
-    "rake": 0,
-    "fees": 0.54
-  },
-  {
     "player_identificator": 4367509,
     "username": "Ctahanovetc",
     "rake": 0,
-    "fees": 236.17
+    "fees": 102.26
   },
   {
     "player_identificator": 4368319,
@@ -1992,46 +1218,22 @@
     "fees": 0
   },
   {
-    "player_identificator": 4368400,
-    "username": "SAndrio",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4372088,
     "username": "komlev98",
     "rake": 0,
-    "fees": 241
+    "fees": 0
   },
   {
     "player_identificator": 4372922,
     "username": "DeusVulter",
     "rake": 0,
-    "fees": 681.76
-  },
-  {
-    "player_identificator": 4374065,
-    "username": "Mr.Phoenix",
-    "rake": 0,
     "fees": 0
-  },
-  {
-    "player_identificator": 4374294,
-    "username": "qwerty77pp",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4374346,
-    "username": "Manager102",
-    "rake": 0,
-    "fees": 0.54
   },
   {
     "player_identificator": 4375327,
     "username": "frankajax98",
     "rake": 0,
-    "fees": 22.08
+    "fees": 36.5
   },
   {
     "player_identificator": 4376971,
@@ -2043,41 +1245,11 @@
     "player_identificator": 4377783,
     "username": "raven94",
     "rake": 0,
-    "fees": 75.81
-  },
-  {
-    "player_identificator": 4377791,
-    "username": "ilya472",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4377805,
-    "username": "Hoffman007",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4378437,
-    "username": "Tyson22",
-    "rake": 0,
     "fees": 0
   },
   {
     "player_identificator": 4379202,
     "username": "BirdGovoryn",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4380898,
-    "username": "Ester2021",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4383532,
-    "username": "skkat1",
     "rake": 0,
     "fees": 0
   },
@@ -2091,29 +1263,17 @@
     "player_identificator": 4384741,
     "username": "CAMOOORA",
     "rake": 0,
-    "fees": 283.95
+    "fees": 164.61
   },
   {
     "player_identificator": 4385005,
     "username": "Sugarcaxap",
     "rake": 0,
-    "fees": 391.05
-  },
-  {
-    "player_identificator": 4385716,
-    "username": "SenseiMarley",
-    "rake": 0,
-    "fees": 0
+    "fees": 85.21
   },
   {
     "player_identificator": 4387709,
     "username": "Nastya2883",
-    "rake": 0,
-    "fees": 12.08
-  },
-  {
-    "player_identificator": 4393316,
-    "username": "Sochi1984",
     "rake": 0,
     "fees": 0
   },
@@ -2130,64 +1290,10 @@
     "fees": 0
   },
   {
-    "player_identificator": 4395664,
-    "username": "muriloh96",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4396712,
-    "username": "chuchart",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4397071,
-    "username": "North123",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4398284,
-    "username": "bluffbot3",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4398293,
     "username": "Hesmotrisuda",
-    "rake": 0,
-    "fees": 265.86
-  },
-  {
-    "player_identificator": 4399789,
-    "username": "odincovskiy",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4401033,
-    "username": "Octaviks",
-    "rake": 0,
-    "fees": 0.61
-  },
-  {
-    "player_identificator": 4401643,
-    "username": "Mordret18",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4401803,
-    "username": "ssaa",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4401823,
-    "username": "nezablefueh",
-    "rake": 0,
-    "fees": 2.58
+    "rake": 11.13,
+    "fees": 228.37
   },
   {
     "player_identificator": 4402605,
@@ -2199,19 +1305,13 @@
     "player_identificator": 4402676,
     "username": "shizik142288",
     "rake": 0,
-    "fees": 10.41
+    "fees": 0
   },
   {
     "player_identificator": 4403481,
     "username": "barrabus",
     "rake": 0,
-    "fees": 10.66
-  },
-  {
-    "player_identificator": 4403887,
-    "username": "meomi",
-    "rake": 0,
-    "fees": 10.5
+    "fees": 0
   },
   {
     "player_identificator": 4406398,
@@ -2220,28 +1320,10 @@
     "fees": 0
   },
   {
-    "player_identificator": 4407059,
-    "username": "BylbashZheka",
-    "rake": 0,
-    "fees": 0
-  },
-  {
     "player_identificator": 4411853,
     "username": "FortunAKs",
     "rake": 0,
-    "fees": 78.14
-  },
-  {
-    "player_identificator": 4412416,
-    "username": "RomaTyva2333",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4415678,
-    "username": "Arturyun",
-    "rake": 0,
-    "fees": 1.5
+    "fees": 2.66
   },
   {
     "player_identificator": 4416386,
@@ -2253,67 +1335,37 @@
     "player_identificator": 4418849,
     "username": "Nastyxa1984",
     "rake": 0,
-    "fees": 0.55
-  },
-  {
-    "player_identificator": 4421432,
-    "username": "MCMIKEGM",
-    "rake": 0,
-    "fees": 5.36
-  },
-  {
-    "player_identificator": 4421461,
-    "username": "StayTrue89",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4424025,
-    "username": "xbaxini",
-    "rake": 0,
-    "fees": 0
+    "fees": 0.17
   },
   {
     "player_identificator": 4424561,
     "username": "NoSurprises",
     "rake": 0,
-    "fees": 199.93
+    "fees": 0
   },
   {
     "player_identificator": 4426812,
     "username": "Moonster",
     "rake": 0,
-    "fees": 0.05
-  },
-  {
-    "player_identificator": 4427015,
-    "username": "Slava199567",
-    "rake": 0,
-    "fees": 0.08
+    "fees": 0.04
   },
   {
     "player_identificator": 4427940,
     "username": "Traderd",
     "rake": 0,
-    "fees": 6.08
-  },
-  {
-    "player_identificator": 4429114,
-    "username": "VIK460048",
-    "rake": 0,
-    "fees": 0
+    "fees": 5.32
   },
   {
     "player_identificator": 4429133,
     "username": "winnerlifes",
     "rake": 0,
-    "fees": 112.46
+    "fees": 0
   },
   {
     "player_identificator": 4429612,
     "username": "EmiLy",
     "rake": 0,
-    "fees": 0.21
+    "fees": 0
   },
   {
     "player_identificator": 4430236,
@@ -2322,69 +1374,21 @@
     "fees": 0
   },
   {
-    "player_identificator": 4431712,
-    "username": "Tavoril",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4433493,
-    "username": "Valhalla",
-    "rake": 0,
-    "fees": 0.12
-  },
-  {
     "player_identificator": 4434484,
     "username": "Gilagianesh",
     "rake": 0,
     "fees": 0
   },
   {
-    "player_identificator": 4434743,
-    "username": "Greenpeaceee",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4435527,
-    "username": "Relax02",
-    "rake": 0,
-    "fees": 7.81
-  },
-  {
     "player_identificator": 4436606,
     "username": "SHARTREZ82",
     "rake": 0,
-    "fees": 0.1
-  },
-  {
-    "player_identificator": 4437589,
-    "username": "Daryadav97",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4438990,
-    "username": "sbbf",
-    "rake": 0,
-    "fees": 0
-  },
-  {
-    "player_identificator": 4439120,
-    "username": "Markus1",
-    "rake": 0,
-    "fees": 8
-  },
-  {
-    "player_identificator": 4441139,
-    "username": "Tenaxis",
-    "rake": 0,
-    "fees": 0
+    "fees": 0.04
   },
   {
     "player_identificator": 4442559,
     "username": "Sp1n0za0410",
     "rake": 0,
-    "fees": 83.22
+    "fees": 3.49
   }
 ]

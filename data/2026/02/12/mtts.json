@@ -1,0 +1,56 @@
+[
+  {
+    "player_identificator": 4268254,
+    "username": "hiiiiiiiiiit",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1152634653",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308925,
+    "username": "Ostap3107",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1152634653",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4334678,
+    "username": "vlad1m1r",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1152634653",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4426812,
+    "username": "Moonster",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1152634653",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308925,
+    "username": "Ostap3107",
+    "tournament_name": "Big Deuce Hyper Sat - 1x 2€",
+    "tournament_id": "1152635154",
+    "buyin": "0.2",
+    "fee": "0.02",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308925,
+    "username": "Ostap3107",
+    "tournament_name": "The Festival 5x€0.50 Centroll",
+    "tournament_id": "1153381403",
+    "buyin": "0.01",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  }
+]
