@@ -1,0 +1,83 @@
+[
+  {
+    "player_identificator": 4271199,
+    "username": "drawing.dead",
+    "tournament_name": "€5 MIDNIGHT BOUNTY [7-Max]",
+    "tournament_id": "1153126521",
+    "buyin": "5.0",
+    "fee": "0.45",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2522281,
+    "username": "ZGMforever",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153130103",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4289833,
+    "username": "Kyiiitay",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153130103",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4297057,
+    "username": "Derg",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153130103",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4334678,
+    "username": "vlad1m1r",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153130103",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4362196,
+    "username": "Queen0107",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153130103",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4426812,
+    "username": "Moonster",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153130103",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4271199,
+    "username": "drawing.dead",
+    "tournament_name": "€5 BOUNTY HUNTER [75% Bounty]",
+    "tournament_id": "1153132916",
+    "buyin": "5.0",
+    "fee": "0.45",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4271199,
+    "username": "drawing.dead",
+    "tournament_name": "€300|Bounty Mini XL",
+    "tournament_id": "1153134249",
+    "buyin": "3.0",
+    "fee": "0.27",
+    "tournament_type": "mtt"
+  }
+]
