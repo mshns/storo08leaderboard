@@ -1,0 +1,164 @@
+[
+  {
+    "player_identificator": 2522281,
+    "username": "ZGMforever",
+    "tournament_name": "Big Deuce Hyper Sat - 1x 2€",
+    "tournament_id": "1153243800",
+    "buyin": "0.4",
+    "fee": "0.04",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2522281,
+    "username": "ZGMforever",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153247288",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4334678,
+    "username": "vlad1m1r",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153247288",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4362196,
+    "username": "Queen0107",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153247288",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2522281,
+    "username": "ZGMforever",
+    "tournament_name": "€300|Bounty Mini XL",
+    "tournament_id": "1153251745",
+    "buyin": "3.0",
+    "fee": "0.27",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4309697,
+    "username": "akbeka",
+    "tournament_name": "€12.5 MYSTERY XL",
+    "tournament_id": "1153985780",
+    "buyin": "12.5",
+    "fee": "1.12",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4310764,
+    "username": "93apple93",
+    "tournament_name": "€7.5 MYSTERY XL",
+    "tournament_id": "1153988556",
+    "buyin": "7.5",
+    "fee": "0.68",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4326127,
+    "username": "GRRiZZZLY",
+    "tournament_name": "€7.5 MYSTERY XL",
+    "tournament_id": "1153988556",
+    "buyin": "7.5",
+    "fee": "0.68",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4309697,
+    "username": "akbeka",
+    "tournament_name": "€10 BOUNTY XL",
+    "tournament_id": "1153989513",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4310764,
+    "username": "93apple93",
+    "tournament_name": "€10 BOUNTY XL",
+    "tournament_id": "1153989513",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4326127,
+    "username": "GRRiZZZLY",
+    "tournament_name": "€10 BOUNTY XL",
+    "tournament_id": "1153989513",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2522281,
+    "username": "ZGMforever",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153259611",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308454,
+    "username": "123maxx123",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153259611",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4316923,
+    "username": "PiterskyiS",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153259611",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4309697,
+    "username": "akbeka",
+    "tournament_name": "€15,000|Mystery Mini|D1",
+    "tournament_id": "1152413315",
+    "buyin": "5.0",
+    "fee": "0.45",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4271126,
+    "username": "serafim25",
+    "tournament_name": "€8,500 Big Deuce KO | Day 1",
+    "tournament_id": "1152413420",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4271199,
+    "username": "drawing.dead",
+    "tournament_name": "3x€25| Ticket Satellite",
+    "tournament_id": "1153264630",
+    "buyin": "3.0",
+    "fee": "0.27",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4271126,
+    "username": "serafim25",
+    "tournament_name": "VC|BIG MONTHLY|D1",
+    "tournament_id": "1152544961",
+    "buyin": "1.0",
+    "fee": "0.09",
+    "tournament_type": "mtt"
+  }
+]
