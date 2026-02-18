@@ -144,6 +144,15 @@
     "tournament_type": "mtt"
   },
   {
+    "player_identificator": 4269246,
+    "username": "Megold",
+    "tournament_name": "€2 MYSTERY [7-Max]",
+    "tournament_id": "1153262072",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
     "player_identificator": 4271199,
     "username": "drawing.dead",
     "tournament_name": "3x€25| Ticket Satellite",
@@ -153,12 +162,543 @@
     "tournament_type": "mtt"
   },
   {
+    "player_identificator": 4269246,
+    "username": "Megold",
+    "tournament_name": "€3,000 GTD MYSTERY",
+    "tournament_id": "1153996967",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4310764,
+    "username": "93apple93",
+    "tournament_name": "€3,000 GTD MYSTERY",
+    "tournament_id": "1153996967",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
     "player_identificator": 4271126,
     "username": "serafim25",
     "tournament_name": "VC|BIG MONTHLY|D1",
     "tournament_id": "1152544961",
     "buyin": "1.0",
     "fee": "0.09",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4271126,
+    "username": "serafim25",
+    "tournament_name": "€2 MYSTERY [7-Max]",
+    "tournament_id": "1153271222",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4270924,
+    "username": "Onlypride",
+    "tournament_name": "€3,500 BOUNTY HUNTER",
+    "tournament_id": "1154005155",
+    "buyin": "15.0",
+    "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4271126,
+    "username": "serafim25",
+    "tournament_name": "€400 GTD - Rebuy",
+    "tournament_id": "1153275254",
+    "buyin": "1.0",
+    "fee": "0.09",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4268254,
+    "username": "hiiiiiiiiiit",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153279415",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4292033,
+    "username": "Artikk15",
+    "tournament_name": "Knockout [6-Max]",
+    "tournament_id": "1153279407",
+    "buyin": "1.0",
+    "fee": "0.09",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4297057,
+    "username": "Derg",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153279415",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308454,
+    "username": "123maxx123",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153279415",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€10,000 GTD 8-MAX",
+    "tournament_id": "1154011301",
+    "buyin": "20.0",
+    "fee": "1.8",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4334678,
+    "username": "vlad1m1r",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153279415",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4359355,
+    "username": "Rogov7773",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153279415",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4362196,
+    "username": "Queen0107",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153279415",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4269246,
+    "username": "Megold",
+    "tournament_name": "€7.5 MYSTERY XL",
+    "tournament_id": "1154013717",
+    "buyin": "7.5",
+    "fee": "0.68",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€7.5 MYSTERY XL",
+    "tournament_id": "1154013717",
+    "buyin": "7.5",
+    "fee": "0.68",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2555027,
+    "username": "ResiDentNL",
+    "tournament_name": "€2 MYSTERY [7-Max]",
+    "tournament_id": "1153285569",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4281688,
+    "username": "retopy19",
+    "tournament_name": "€3 BOUNTY SUPER XL",
+    "tournament_id": "1153286893",
+    "buyin": "3.0",
+    "fee": "0.27",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4302886,
+    "username": "Brigada90",
+    "tournament_name": "€11,000 GTD MYSTERY",
+    "tournament_id": "1154018599",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€10,000 GTD SUPER XL",
+    "tournament_id": "1154018595",
+    "buyin": "25.0",
+    "fee": "2.25",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€11,000 GTD MYSTERY",
+    "tournament_id": "1154018599",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4415678,
+    "username": "Arturyun",
+    "tournament_name": "€3 BOUNTY SUPER XL",
+    "tournament_id": "1153286893",
+    "buyin": "3.0",
+    "fee": "0.27",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2555027,
+    "username": "ResiDentNL",
+    "tournament_name": "€500|Micro Hunter",
+    "tournament_id": "1153292513",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4302886,
+    "username": "Brigada90",
+    "tournament_name": "€20,000 GTD ELIMINATOR",
+    "tournament_id": "1153292515",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€20,000 GTD ELIMINATOR",
+    "tournament_id": "1153292515",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€20,000 GTD ELIMINATOR",
+    "tournament_id": "1153292515",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4415678,
+    "username": "Arturyun",
+    "tournament_name": "€500|Micro Hunter",
+    "tournament_id": "1153292513",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4292033,
+    "username": "Artikk15",
+    "tournament_name": "€200 GTD - Rebuy Turbo",
+    "tournament_id": "1153293920",
+    "buyin": "1.5",
+    "fee": "0.15",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2555027,
+    "username": "ResiDentNL",
+    "tournament_name": "Mini Bigstack Hunter",
+    "tournament_id": "1153295325",
+    "buyin": "4.0",
+    "fee": "0.36",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4299636,
+    "username": "Glinomes12",
+    "tournament_name": "€40,000 GTD ULTRA",
+    "tournament_id": "1153295328",
+    "buyin": "50.0",
+    "fee": "4.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4302886,
+    "username": "Brigada90",
+    "tournament_name": "€40,000 GTD ULTRA",
+    "tournament_id": "1153295328",
+    "buyin": "50.0",
+    "fee": "4.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€40,000 GTD ULTRA",
+    "tournament_id": "1153295328",
+    "buyin": "50.0",
+    "fee": "4.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€40,000 GTD ULTRA",
+    "tournament_id": "1153295328",
+    "buyin": "50.0",
+    "fee": "4.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4307947,
+    "username": "Taixukq",
+    "tournament_name": "IRISH OPEN 2x€150|PCKG|Step3",
+    "tournament_id": "1154027383",
+    "buyin": "15.0",
+    "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€6,000 GTD LUCKY SEVEN XL",
+    "tournament_id": "1154027381",
+    "buyin": "15.0",
+    "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4270871,
+    "username": "Mastercool50",
+    "tournament_name": "5 x 10€ | Ticket Satellite",
+    "tournament_id": "1153298974",
+    "buyin": "3.0",
+    "fee": "0.27",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4374065,
+    "username": "Mr.Phoenix",
+    "tournament_name": "5 x 10€ | Ticket Satellite",
+    "tournament_id": "1153298974",
+    "buyin": "4.0",
+    "fee": "0.36",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4307788,
+    "username": "NotKnowGTO",
+    "tournament_name": "€15 FIRE KO [6-MAX,TURBO]",
+    "tournament_id": "1153298408",
+    "buyin": "15.0",
+    "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€3,000 GTD Bounty Hunter",
+    "tournament_id": "1153298409",
+    "buyin": "12.5",
+    "fee": "1.12",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€25,000 GTD MYSTERY XL",
+    "tournament_id": "1153302003",
+    "buyin": "12.5",
+    "fee": "1.12",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€5 MYSTERY BOUNTY",
+    "tournament_id": "1153302001",
+    "buyin": "5.0",
+    "fee": "0.45",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€25,000 GTD MYSTERY XL",
+    "tournament_id": "1153302003",
+    "buyin": "12.5",
+    "fee": "1.12",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4384741,
+    "username": "CAMOOORA",
+    "tournament_name": "€25,000 GTD MYSTERY XL",
+    "tournament_id": "1153302003",
+    "buyin": "12.5",
+    "fee": "1.12",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4299636,
+    "username": "Glinomes12",
+    "tournament_name": "€10,000 GTD TUESDAY SPECIAL",
+    "tournament_id": "1153305722",
+    "buyin": "25.0",
+    "fee": "2.25",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€10,000 GTD TUESDAY SPECIAL",
+    "tournament_id": "1153305722",
+    "buyin": "25.0",
+    "fee": "2.25",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4384741,
+    "username": "CAMOOORA",
+    "tournament_name": "€10,000 GTD TUESDAY SPECIAL",
+    "tournament_id": "1153305722",
+    "buyin": "25.0",
+    "fee": "2.25",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4299636,
+    "username": "Glinomes12",
+    "tournament_name": "€20,000 GTD DAILY PKO MAIN",
+    "tournament_id": "1153309731",
+    "buyin": "50.0",
+    "fee": "4.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€20,000 GTD DAILY PKO MAIN",
+    "tournament_id": "1153309731",
+    "buyin": "50.0",
+    "fee": "4.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4374065,
+    "username": "Mr.Phoenix",
+    "tournament_name": "€5,000 BOUNTY HUNTER",
+    "tournament_id": "1154040154",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4335632,
+    "username": "IrriSy",
+    "tournament_name": "IRISH OPEN PCKG 12x€2,250|D1",
+    "tournament_id": "1151473783",
+    "buyin": "150.0",
+    "fee": "13.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€4,000 GTD BOUNTY HUNTER",
+    "tournament_id": "1154049682",
+    "buyin": "15.0",
+    "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4384741,
+    "username": "CAMOOORA",
+    "tournament_name": "€3,000 GTD | Fists of Fury",
+    "tournament_id": "1153321893",
+    "buyin": "40.0",
+    "fee": "3.6",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2522281,
+    "username": "ZGMforever",
+    "tournament_name": "€50 Daily Freeroll",
+    "tournament_id": "1153335035",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4287346,
+    "username": "staryy21",
+    "tournament_name": "€50 Daily Freeroll",
+    "tournament_id": "1153335035",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4299636,
+    "username": "Glinomes12",
+    "tournament_name": "€4,000 GTD ULTRA 7-MAX",
+    "tournament_id": "1154066115",
+    "buyin": "50.0",
+    "fee": "4.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4302886,
+    "username": "Brigada90",
+    "tournament_name": "€10 MYSTERY FINISHER [6-Max]",
+    "tournament_id": "1153339077",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4302886,
+    "username": "Brigada90",
+    "tournament_name": "€3,000 BOUNTY HUNTER",
+    "tournament_id": "1154068778",
+    "buyin": "15.0",
+    "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4299636,
+    "username": "Glinomes12",
+    "tournament_name": "€30 MYSTERY [6-Max]",
+    "tournament_id": "1153350707",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4302886,
+    "username": "Brigada90",
+    "tournament_name": "€30 MYSTERY [6-Max]",
+    "tournament_id": "1153350707",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4302886,
+    "username": "Brigada90",
+    "tournament_name": "€20 MYSTERY HYPER [6-MAX]",
+    "tournament_id": "1154083376",
+    "buyin": "20.0",
+    "fee": "1.8",
     "tournament_type": "mtt"
   }
 ]
