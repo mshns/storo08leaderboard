@@ -1,0 +1,47 @@
+[
+  {
+    "player_identificator": 4280429,
+    "username": "ximar996",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153488735",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4303665,
+    "username": "botat",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153488735",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4347824,
+    "username": "AlexSteg",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153488735",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4362196,
+    "username": "Queen0107",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1153488735",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4303665,
+    "username": "botat",
+    "tournament_name": "VC|BIG MONTHLY|D1",
+    "tournament_id": "1152544977",
+    "buyin": "1.0",
+    "fee": "0.09",
+    "tournament_type": "mtt"
+  }
+]
