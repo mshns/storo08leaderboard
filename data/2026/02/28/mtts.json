@@ -34,5 +34,14 @@
     "buyin": "0.0",
     "fee": "0.0",
     "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2156726,
+    "username": "poltoraivana",
+    "tournament_name": "€0.5 BOUNTY HUNTER",
+    "tournament_id": "1154585868",
+    "buyin": "0.5",
+    "fee": "0.03",
+    "tournament_type": "mtt"
   }
 ]
