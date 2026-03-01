@@ -36,12 +36,624 @@
     "tournament_type": "mtt"
   },
   {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€2 MYSTERY [7-Max]",
+    "tournament_id": "1154584474",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
     "player_identificator": 2156726,
     "username": "poltoraivana",
     "tournament_name": "€0.5 BOUNTY HUNTER",
     "tournament_id": "1154585868",
     "buyin": "0.5",
     "fee": "0.03",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€300|Bounty Hunter 6-Max",
+    "tournament_id": "1154585870",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2522281,
+    "username": "ZGMforever",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154589623",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4275526,
+    "username": "Ofartoviy",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154589623",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4280429,
+    "username": "ximar996",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154589623",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308454,
+    "username": "123maxx123",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154589623",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4311974,
+    "username": "NATOG1448",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154589623",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4316923,
+    "username": "PiterskyiS",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154589623",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4359355,
+    "username": "Rogov7773",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154589623",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4362196,
+    "username": "Queen0107",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154589623",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€20 BOUNTY XL",
+    "tournament_id": "1155307493",
+    "buyin": "20.0",
+    "fee": "1.8",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2156726,
+    "username": "poltoraivana",
+    "tournament_name": "€0.5 BOUNTY HUNTER",
+    "tournament_id": "1154592634",
+    "buyin": "0.5",
+    "fee": "0.03",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€2 MYSTERY [7-Max]",
+    "tournament_id": "1154592636",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308554,
+    "username": "B0aR",
+    "tournament_name": "€25 BOUNTY XL",
+    "tournament_id": "1155310448",
+    "buyin": "25.0",
+    "fee": "2.25",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4275526,
+    "username": "Ofartoviy",
+    "tournament_name": "€0.5 BOUNTY HUNTER",
+    "tournament_id": "1154601905",
+    "buyin": "0.5",
+    "fee": "0.03",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€2 MYSTERY [7-Max]",
+    "tournament_id": "1154604002",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€400 GTD - Rebuy",
+    "tournament_id": "1154607973",
+    "buyin": "1.0",
+    "fee": "0.09",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2501424,
+    "username": "Century",
+    "tournament_name": "VC SAT|EVENT 04 1x€200",
+    "tournament_id": "1155326357",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 1562201,
+    "username": "alexis333",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154612700",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4281688,
+    "username": "retopy19",
+    "tournament_name": "€1,000 GTD - Rebuy",
+    "tournament_id": "1154612692",
+    "buyin": "5.0",
+    "fee": "0.45",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4289833,
+    "username": "Kyiiitay",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154612700",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308454,
+    "username": "123maxx123",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154612700",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4316923,
+    "username": "PiterskyiS",
+    "tournament_name": "€25 Daily Freeroll",
+    "tournament_id": "1154612700",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€200|Morning Mini Main",
+    "tournament_id": "1154612694",
+    "buyin": "1.0",
+    "fee": "0.09",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2555027,
+    "username": "ResiDentNL",
+    "tournament_name": "€2 MYSTERY [7-Max]",
+    "tournament_id": "1154619154",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€2 MYSTERY [7-Max]",
+    "tournament_id": "1154619154",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€11,000 GTD MYSTERY",
+    "tournament_id": "1155336026",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4326127,
+    "username": "GRRiZZZLY",
+    "tournament_name": "€2,500 GTD | Mini Warm-Up",
+    "tournament_id": "1154623163",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€20,000 GTD ELIMINATOR",
+    "tournament_id": "1154623166",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2555027,
+    "username": "ResiDentNL",
+    "tournament_name": "€500|Micro Hunter",
+    "tournament_id": "1154625875",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€500|Micro Hunter",
+    "tournament_id": "1154625875",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2156726,
+    "username": "poltoraivana",
+    "tournament_name": "€0.5 BOUNTY HUNTER",
+    "tournament_id": "1155343306",
+    "buyin": "0.5",
+    "fee": "0.03",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2555027,
+    "username": "ResiDentNL",
+    "tournament_name": "Mini Bigstack Hunter",
+    "tournament_id": "1154628780",
+    "buyin": "4.0",
+    "fee": "0.36",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€45,000 GTD ULTRA",
+    "tournament_id": "1154628779",
+    "buyin": "50.0",
+    "fee": "4.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308489,
+    "username": "Arcturus1982",
+    "tournament_name": "IRISH OPEN 2x€150|PCKG|Step3",
+    "tournament_id": "1155345314",
+    "buyin": "15.0",
+    "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4281688,
+    "username": "retopy19",
+    "tournament_name": "€1,250 GTD - Rebuy",
+    "tournament_id": "1154631669",
+    "buyin": "5.0",
+    "fee": "0.45",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4310449,
+    "username": "uwaroff",
+    "tournament_name": "VC|BIG MONTHLY|D1",
+    "tournament_id": "1152545156",
+    "buyin": "1.0",
+    "fee": "0.09",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4326127,
+    "username": "GRRiZZZLY",
+    "tournament_name": "€3,000 GTD Bounty Hunter",
+    "tournament_id": "1154631672",
+    "buyin": "12.5",
+    "fee": "1.12",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€3,000 GTD Bounty Hunter",
+    "tournament_id": "1154631672",
+    "buyin": "12.5",
+    "fee": "1.12",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4292033,
+    "username": "Artikk15",
+    "tournament_name": "PekarStas €100 Freeroll",
+    "tournament_id": "1154634904",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4310449,
+    "username": "uwaroff",
+    "tournament_name": "€25,000 GTD MYSTERY XL",
+    "tournament_id": "1154634900",
+    "buyin": "12.5",
+    "fee": "1.12",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4326127,
+    "username": "GRRiZZZLY",
+    "tournament_name": "€4,000|Saturday Smackdown",
+    "tournament_id": "1154634903",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4336403,
+    "username": "viliasss",
+    "tournament_name": "€25,000 GTD MYSTERY XL",
+    "tournament_id": "1154634900",
+    "buyin": "12.5",
+    "fee": "1.12",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4273334,
+    "username": "guancha2013",
+    "tournament_name": "€1,000 Fists of Fury - Rebuy",
+    "tournament_id": "1154636413",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€2 MYSTERY [7-Max]",
+    "tournament_id": "1154636414",
+    "buyin": "2.0",
+    "fee": "0.18",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4367141,
+    "username": "Fura88888",
+    "tournament_name": "€1,000 Fists of Fury - Rebuy",
+    "tournament_id": "1154636413",
+    "buyin": "4.0",
+    "fee": "0.36",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4270871,
+    "username": "Mastercool50",
+    "tournament_name": "SATURDAY MYSTERY €5 6-MAX",
+    "tournament_id": "1154641753",
+    "buyin": "5.0",
+    "fee": "0.45",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4272879,
+    "username": "890tor890",
+    "tournament_name": "Telegram Special Freeroll",
+    "tournament_id": "1144710795",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4304573,
+    "username": "qwer3791",
+    "tournament_name": "Telegram Special Freeroll",
+    "tournament_id": "1144710795",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308454,
+    "username": "123maxx123",
+    "tournament_name": "Telegram Special Freeroll",
+    "tournament_id": "1144710795",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4311974,
+    "username": "NATOG1448",
+    "tournament_name": "Telegram Special Freeroll",
+    "tournament_id": "1144710795",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4326127,
+    "username": "GRRiZZZLY",
+    "tournament_name": "€5,000 BOUNTY HUNTER",
+    "tournament_id": "1155358654",
+    "buyin": "10.0",
+    "fee": "0.9",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4362196,
+    "username": "Queen0107",
+    "tournament_name": "Telegram Special Freeroll",
+    "tournament_id": "1144710795",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4366167,
+    "username": "Marmok7",
+    "tournament_name": "Telegram Special Freeroll",
+    "tournament_id": "1144710795",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4426812,
+    "username": "Moonster",
+    "tournament_name": "Telegram Special Freeroll",
+    "tournament_id": "1144710795",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4429612,
+    "username": "EmiLy",
+    "tournament_name": "Telegram Special Freeroll",
+    "tournament_id": "1144710795",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4285025,
+    "username": "n0ntransit0",
+    "tournament_name": "VC SAT|EVENT 04 2x€200",
+    "tournament_id": "1155367454",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4285025,
+    "username": "n0ntransit0",
+    "tournament_name": "VC SAT|€25 to 1x€250 VANILLA",
+    "tournament_id": "1155369455",
+    "buyin": "25.0",
+    "fee": "2.25",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4269238,
+    "username": "shershenl",
+    "tournament_name": "IRISH OPEN 2x€150|PCKG|Step3",
+    "tournament_id": "1155372161",
+    "buyin": "15.0",
+    "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4326452,
+    "username": "RemoteApp",
+    "tournament_name": "IRISH OPEN PCKG 12x€2,250|D1",
+    "tournament_id": "1151473750",
+    "buyin": "150.0",
+    "fee": "13.5",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4270594,
+    "username": "Ru$luck05",
+    "tournament_name": "VC SAT|EVENT 04 2x€200",
+    "tournament_id": "1155380821",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4270924,
+    "username": "Onlypride",
+    "tournament_name": "VC SAT|EVENT 04 2x€200",
+    "tournament_id": "1155380821",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4326452,
+    "username": "RemoteApp",
+    "tournament_name": "VC SAT|EVENT 04 2x€200",
+    "tournament_id": "1155380821",
+    "buyin": "30.0",
+    "fee": "2.7",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4329509,
+    "username": "ZapahSibiri",
+    "tournament_name": "IRISH OPEN 2x€150|PCKG|Step3",
+    "tournament_id": "1155380060",
+    "buyin": "15.0",
+    "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4280429,
+    "username": "ximar996",
+    "tournament_name": "€50 Daily Freeroll",
+    "tournament_id": "1154666950",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4287346,
+    "username": "staryy21",
+    "tournament_name": "€50 Daily Freeroll",
+    "tournament_id": "1154666950",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4311974,
+    "username": "NATOG1448",
+    "tournament_name": "€50 Daily Freeroll",
+    "tournament_id": "1154666950",
+    "buyin": "0.0",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4321676,
+    "username": "dashok0304",
+    "tournament_name": "VC SAT|€25 to 1x€250 VANILLA",
+    "tournament_id": "1155394243",
+    "buyin": "25.0",
+    "fee": "2.25",
     "tournament_type": "mtt"
   }
 ]
